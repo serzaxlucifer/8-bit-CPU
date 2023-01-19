@@ -5,8 +5,8 @@ Prepared by Mukul Malik (21ucs133)
 Please note the following:
 1. This ISA design is not final and might change while designing the actual CPU circuits, components and modules in coming weeks/labs if we choose to change the instruction length, addressing modes, number of registers or bus sizes. This is an initial draft with a circuit in mind.
 
-We’re using 4 8-bit registers named as R0, R1, R2, R3.
-Register Name	  Register Address
+**We’re using 4 8-bit registers named as R0, R1, R2, R3.**
+**Register Name	  Register Address**
 R0	            00
 R1	            01
 R2	            10
